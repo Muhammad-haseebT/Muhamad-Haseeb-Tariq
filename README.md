@@ -29,11 +29,11 @@
 A **full-fledged PC retail management system**, built with **C# and SQL Server**.  
 🔗 [GitHub Repo](https://github.com/Muhammad-haseebT/billing-inventory-management-software)  
 
-#### 🎬 Air Blue (Airline Management System)  
+#### ✈ Air Blue (Airline Management System)  
 A **console-based** flight and ticket management system using **Java and SQL Server**.  
 🔗 [GitHub Repo](https://github.com/Muhammad-haseebT/Airline-sSystem-with-databse)  
 
-#### 🏫 Employee Management System  
+#### 🏢 Employee Management System  
 A **C# Windows Forms** project with an advanced attendance feature and employee management.  
 🔗 [GitHub Repo](https://github.com/Muhammad-haseebT/Employee-Management-System)  
 
