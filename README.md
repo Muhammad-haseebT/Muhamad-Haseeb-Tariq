@@ -4,9 +4,10 @@
 ---
 
 ### 🔥 About Me  
-- 💻 Experienced in **C#, Java, .NET, Spring Boot**  
+- 💻 Experienced in **C#, Java, .NET**  
 - 🛠 Skilled in building scalable **Windows & Web Applications**  
-- 📊 Interested in **Software Design Patterns, DDD, and System Architecture**  
+- 🎯 Interested in **Software Design Patterns, DDD, and System Architecture**  
+- 🏆 Developer of **PC Emporium** – A complete PC retail management system  
 - 🎯 Always learning and improving my coding skills  
 
 ---
@@ -15,8 +16,8 @@
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)  
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)  
+![Assembly](https://img.shields.io/badge/-Assembly-525252?style=flat-square&logo=assemblyscript&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Visual Studio](https://img.shields.io/badge/-Visual_Studio-5C2D91?style=flat-square&logo=visual-studio)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea)  
@@ -24,17 +25,25 @@
 ---
 
 ### 📂 Featured Projects  
-#### 🎬 Flick Nest (Movie Management System)  
-A **console base system** for managing flights and tickets, built with **java and SQL Server**.  
+#### 🖥 PC Emporium (Retail Management System)  
+A **full-fledged PC retail management system**, built with **C# and SQL Server**.  
+🔗 [GitHub Repo](https://github.com/Muhammad-haseebT/billing-inventory-management-software)  
+
+#### 🎬 Air Blue (Airline Management System)  
+A **console-based** flight and ticket management system using **Java and SQL Server**.  
 🔗 [GitHub Repo](https://github.com/Muhammad-haseebT/Airline-sSystem-with-databse)  
 
-#### 🏫 Student Information System  
-A **C# Windows Forms** project with an advanced attendance feature and employee managemnt.  
+#### 🏫 Employee Management System  
+A **C# Windows Forms** project with an advanced attendance feature and employee management.  
 🔗 [GitHub Repo](https://github.com/Muhammad-haseebT/Employee-Management-System)  
 
 #### 🛒 Bike Store (E-commerce Website)  
 A **HTML, CSS, JavaScript-based** e-commerce site for selling bikes and components.  
 🔗 [GitHub Repo](https://github.com/Muhammad-haseebT/BikeStore)  
+
+#### 🏗 Assembly Language Projects  
+A collection of **Assembly Language** projects covering various system-level implementations.  
+🔗 [GitHub Repo](https://github.com/Muhammad-haseebT/Assembley)  
 
 ---
 
