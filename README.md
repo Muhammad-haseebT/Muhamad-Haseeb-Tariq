@@ -37,13 +37,9 @@ A **console-based** flight and ticket management system using **Java and SQL Ser
 A **C# Windows Forms** project with an advanced attendance feature and employee management.  
 🔗 [GitHub Repo](https://github.com/Muhammad-haseebT/Employee-Management-System)  
 
-#### 🛒 Bike Store (E-commerce Website)  
-A **HTML, CSS, JavaScript-based** e-commerce site for selling bikes and components.  
-🔗 [GitHub Repo](https://github.com/Muhammad-haseebT/BikeStore)  
-
 #### 🏗 Assembly Language Projects  
 A collection of **Assembly Language** projects covering various system-level implementations.  
-🔗 [GitHub Repo](https://github.com/Muhammad-haseebT/Assembley)  
+🔗 [GitHub Repo](https://github.com/Muhammad-haseebT/Assembley-)  
 
 ---
 
